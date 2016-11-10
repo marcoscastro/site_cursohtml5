@@ -2,7 +2,7 @@
 
 Site do curso HTML5: Desenvolvimento Web para Iniciantes.
 
-Aproveite a super-promoção do curso: http://bit.ly/CursoHTML5Promo
+Acesse: http://aprenderhtml5.com
 
 Esse site foi feito por um dos alunos do curso. O aluno [Edmar Souza](http://github.com/mazinhoweb)
 fez como projeto final do curso e o instrutor (eu) achou o site tão bom
